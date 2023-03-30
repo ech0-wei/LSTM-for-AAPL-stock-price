@@ -1,0 +1,1 @@
+Base on AAPL data from yahoo finance, we define the input-dim to 30 days to predict the stock price.
